@@ -1,0 +1,14 @@
+[
+  {
+    "truckName": "Truck-Alpha",
+    "truckCapacity": 250
+  },
+  {
+    "truckName": "Truck-Beta",
+    "truckCapacity": 300
+  },
+  {
+    "truckName": "Truck-Gamma",
+    "truckCapacity": 200
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "packageName": "Package-A",
+    "weight": 45,
+    "joy": 120
+  },
+  {
+    "packageName": "Package-B",
+    "weight": 60,
+    "joy": 150
+  },
+  {
+    "packageName": "Package-C",
+    "weight": 35,
+    "joy": 95
+  },
+  {
+    "packageName": "Package-D",
+    "weight": 50,
+    "joy": 130
+  },
+  {
+    "packageName": "Package-E",
+    "weight": 40,
+    "joy": 110
+  },
+  {
+    "packageName": "Package-F",
+    "weight": 55,
+    "joy": 140
+  },
+  {
+    "packageName": "Package-G",
+    "weight": 30,
+    "joy": 85
+  },
+  {
+    "packageName": "Package-H",
+    "weight": 65,
+    "joy": 160
+  },
+  {
+    "packageName": "Package-I",
+    "weight": 42,
+    "joy": 115
+  },
+  {
+    "packageName": "Package-J",
+    "weight": 48,
+    "joy": 125
+  },
+  {
+    "packageName": "Package-K",
+    "weight": 38,
+    "joy": 100
+  },
+  {
+    "packageName": "Package-L",
+    "weight": 52,
+    "joy": 135
+  },
+  {
+    "packageName": "Package-M",
+    "weight": 44,
+    "joy": 118
+  },
+  {
+    "packageName": "Package-N",
+    "weight": 58,
+    "joy": 145
+  },
+  {
+    "packageName": "Package-O",
+    "weight": 36,
+    "joy": 98
+  },
+  {
+    "packageName": "Package-P",
+    "weight": 62,
+    "joy": 155
+  },
+  {
+    "packageName": "Package-Q",
+    "weight": 41,
+    "joy": 112
+  },
+  {
+    "packageName": "Package-R",
+    "weight": 54,
+    "joy": 138
+  }
+]

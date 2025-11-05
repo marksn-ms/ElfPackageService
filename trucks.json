@@ -1,0 +1,10 @@
+[
+  {
+    "truckName": "TruckA",
+    "truckCapacity": 100
+  },
+  {
+    "truckName": "TruckB",
+    "truckCapacity": 150
+  }
+]
